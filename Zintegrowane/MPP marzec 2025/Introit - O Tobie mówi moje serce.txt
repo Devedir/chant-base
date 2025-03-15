@@ -1,0 +1,6 @@
+initial-style: 1;
+office-part: introitus;
+mode: 3;
+annotation: III;
+%%
+(c4)O(g) To(hi)bie(i) mó(i)wi(i) mo(ji)je(h) ser(i)ce:(i.) <v>\greheightstar</v>(;) Szu(j)kaj(j) Je(jh)go(hk) ob(j)li(ji)cza.(i.;) <v>\greheightstar</v>() Bę(g)dę(g) szu(g)kał(g_) ob(g)li(h)cza(h) Twe(g)go,(f) Pa(gh)nie,(g.) <v>\greheightstar</v>(;) nie(h) za(h)kry(h)waj(h) przede(hh) mną(h) swo(g)jej(f) twa(gvFE)rzy.(e.) (::) ℣ Pan(i) mo(i)im(i) świa(i)tłem(i) i(i) zba(i)wie(i)niem(j) mo(i)im,(i.) <v>\greheightstar</v>(:) ko(j)go(j) miał(j)bym(j) się(i) lę(h)kać?(h.) (::) Pan(i) o(i)broń(i)cą(i) me(i)go(j) ży(i)cia,(i.) <v>\greheightstar</v>(:) przed(j) kim(j) miał(j)bym(j) czuć(i) trwo(h)gę?(h.) (::)

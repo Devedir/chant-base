@@ -1,0 +1,18 @@
+Désiderium * ánimæ ejus tribuísti ei, Dómine,
+et voluntáte labiórum ejus non fraudásti eum:
+posuísti in cápite ejus corónam de lápide pretióso.
+
+initial-style: 1;
+office-part: offertorium;
+mode: 6;
+annotation: Off.;
+annotation: VI;
+%%
+c4 c d ffv fhg ghff ::
+dffg f f;4 f!ghggf~ gf ;
+fg f gf fe;4 fg ixgviivGF;4 fg f fggf :
+fd~ fgFE gh hj g;4 f f f fhg;4 f!ghggf~ gf ;
+fh!jhj g fgFD ff;4 fgFD dfddc :
+f g gh!jhj g ; f gh g f;4 hf!gh g;4 f hfhg g ;
+ixgih ixij g fgFD;1 ffv gh hf!gh;3jjh;6ixgiHGF;ffgf;4ghghfggf f
+::

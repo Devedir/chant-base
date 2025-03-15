@@ -1,0 +1,13 @@
+O spem miram quam dedísti mortis hora te flentibus, dum post mortem promisísti te profutúrum frátribus: * Imple Pater quod dixisti nos tuis juvans précibus. ℣ Qui tot signis claruísti in ægrórum corpóribus, nobis opem ferens Christi, ægris medére móribus. * Imple Pater quod dixisti nos tuis juvans précibus. ℣ Gloria Patri, et Filio, et Spiritui sancto. * Imple Pater quod dixisti nos tuis juvans précibus.
+
+initial-style: 1;
+annotation: Resp.
+annotation: I
+%%
+c4 dcd;1fEC;1efd :: fgh ;3 hGFghgixhi h ; h jIG;3hGFE g h ; h jk ;4 jIG;4ijh h ; hghFED cd de!fef ed : h j k jIHG ;3 j g hGFED;3g h ; h jkl jkh ixiHGgf gh ; df!gefED cd d ::
+h gh jk k ;6 j iHG j k ; ji hgh fED ;1 ixfg!hi h ; hg!hvGFh;3hGFghd;fED cd d ::
+dh h ;3 gf~ ed ;1 f gh ixhi h ; h hg hj iyji ;3 gh h ixhih h :
+d fe de dc ;1 f gh ixhi h ; h h ;3 h hg hgge ;1 fg ge!fd cd ::
+h gh jk k ;6 j iHG j k ; ji hgh fED ;1 ixfg!hi h ; hg!hvGFh;3hGFghd;fED cd d ::
+dh gf ed ;1 ixfg!hi h ; hg iyhji gh ixhih ;6 h h hghg ge fg ;4 ge!fd cd ::
+h gh jk k ;6 j iHG j k ; ji hgh fED ;1 ixfg!hi h ; hg!hvGFh;3hGFghd;fED cd d ::

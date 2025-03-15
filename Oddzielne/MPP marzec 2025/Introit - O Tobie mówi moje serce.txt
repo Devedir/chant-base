@@ -1,0 +1,11 @@
+O Tobie mówi moje serce: * Szukaj Jego oblicza. * Będę szukał oblicza Twego, Panie, * nie zakrywaj przede mną swojej twarzy.
+℣ Pan moim światłem i zbawieniem moim, * kogo miałbym się lękać? Pan obrońcą mego życia, * przed kim miałbym czuć trwogę?
+
+initial-style: 1;
+office-part: introitus;
+mode: 3;
+annotation: III;
+%%
+c4 g hi i i i ji h i i. ; j j jh hk j ji i.;  g g g g_ g h h g f gh g. ; h h h h hh h g f gvFE e. ::
+i i i i i i i i j i i. : j j j j i h h. ::
+i i i i i j i i. : j j j j i h h. ::

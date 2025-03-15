@@ -1,0 +1,18 @@
+name: Communio - Fidelis servus;
+supertitle: ;
+title: Fidelis servus;
+subtitle: Communio;
+text-left: ;
+text-right: ;
+annotation: Com.;
+annotation: VII;
+%%
+(c3)FI(e)DÉ(f)LIS(hg) SER(hi)VUS(i::) et(hg) pru(hi)dens,(i) (;) quem(i) con(i)stí(ijij)tu(ih)it(h) (;3) Dó(hi)mi(h)nus(hg/hih) (;) su(h)per(hg) fa(f)mí(hhv)li(f/hi)am(hg) su(e)am:(e:) ut(h) det(h) il(hih/hg~)lis(f) (;3) in(hg) tém(hi~)po(ijIHGh)re(hg) (;) trí(i!j!k!j/i/ih/;3/ighGF/;3/gh!ij)ti(hf)ci(ghi) (;3) men(hg~)sú(efe)ram.(e)  T.P.(::) Al(fh~)le(gf)lú(hihhg~)ia,(f) (;4) al(eg~)le(gfhg)lú(efe)ia.(e) 
+
+1.(::) Be(ehg)ne(hi)dí(i)cam(i) Dó(i)mi(i)num(i) in(i) om(ik)ni(j) tém(j)po(ji)re(ij..) *(:) sem(ig~)per(hi) laus(i) e(i)jus(i) in(ijwk) o(i)re(h) me(hhh)o.(fe..)  
+2.(::) In(ehg) Dó(hi)mi(i)no(i) la(i)du(i)á(i)bi(i)tur(i) á(ik)ni(j)ma(j) me(ji)a(ij..) *(:) áu(ig)di(hi)ant(i) man(i)su(i)é(i)ti,(ijwk) et(i) læ(h)tén(hhh)tur.(fe..)  
+3.(::) Ma(ehg)gni(hi)fi(i)cá(i)te(i) Dó(ik)mi(j)num(j) me(ji)cum(ij..) *(:) et(ig) e(hi)xal(i)té(i)mus(i) no(i)men(i) e(i)jus(ijwk) in(i) i(h)dí(hhh)psum.(fe..)  
+4.(::) Ex(ehg)qui(hi)sí(i)vi(i) Dó(i)mi(i)num,(i) et(i) e(ik)xau(j)dí(j)vit(ji) me(ij..) *(:) et(ig) ex(hi) óm(i)ni(i)bus(i) tri(i)bu(i)la(i)ti(i)ó(i)ni(i)bus(i) me(i)is(i) e(ijwk)rí(i)pu(h)it(hhh) me.(fe..)  
+5.(::) Im(ehg~)mít(hi)tet(i) An(i)ge(i)lus(i) Dó(i)mi(i)ni(i) in(i) cir(i)cú(i)i(i)tu(i) ti(i)mén(ik)ti(j)um(j) e(ji)um(ij..) *(:) et(ig) e(hi)rí(ijwk)pi(i)et(h) e(hhh)os.(fe..)  
+6.(::) Gu(ehg)stá(hi)te,(i) et(i) vi(i)dé(i)te(i) quó(i)ni(i)am(i) su(i)á(i)vis(ik) est(j) Dó(j)mi(ji)nus(ij..) *(:) be(ig)á(hi)tus(i) vir,(i) qui(i) spe(ijwk)rat(i) in(h) e(hhh)o.(fe..)  
+7.(::) Gló(ehg)ri(hi)a(i) Pa(i)tri,(i) et(i) Fí(i)li(i)o,(i.,) et(i) Spi(i)rí(ik)tu(j)i(j) San(ji)cto.(ij..) *(:) Si(ig)cut(hi) e(i)rat(i) in(i) prin(i)cí(i)pi(i)o,(i.,) et(i) nunc,(ik) et(j) sem(ji~)per,(i.j.) (:) et(ig) in(hi) sæ(i)cu(i)la(i) sæ(i)cu(ijwk)ló(i)rum.(h) A(hhh)men.(fe..) (::)
